@@ -33,3 +33,6 @@ With 1,607 fatalities and 128,920 casualties reported in 2024, a slight decline 
 
 "Broken roads can risk lives and cost families hundreds if not thousands of pounds on repairs. That’s a cost that can easily be avoided by investing properly in our roads.“- Sir Keir Starmer
 
+
+![image](https://github.com/user-attachments/assets/7f05438f-3491-4985-adda-30e3455c1f80)
+
