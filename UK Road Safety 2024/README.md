@@ -9,8 +9,6 @@ Table of contents
    * [Repository Content](#Repository-Content)
       * [Dataset](#Dataset)
       * [Exploratory Data Analysis](#Exploratory-Data-Analysis)
-      * [Data preprocessing](#Data-preprocessing)
-      * [Model](#Model)
       * [Plausible Data Dictionary](#Plausible-Data-Dictionary)
   * [Citation](#Citation)
 <!--te-->
@@ -21,9 +19,9 @@ This repository presents an in-depth analysis of UK road safety trends for 2024,
 
 Authors
 --------------
-George E. N George
-Data Analyst | [Dallas-Fort Worth Metroplex]
-Passionate about leveraging data to drive actionable insights and improve public safety. Experienced in data analysis, visualization, and reporting using tools such as Excel, MySQL, and Power BI.
+**George E. N George**
+Data Analyst | 
+Passionate about leveraging data to drive actionable insights and improve public safety. Experienced in data analysis, visualization, and reporting using tools such as Excel, MySQL, and Power BI. [www.linkedin.com/in/george-george-d1] 
 
 Introduction
 --------------
