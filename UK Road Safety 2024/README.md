@@ -5,8 +5,8 @@ Table of contents
 <!--ts-->
    * [About the repository](#About-the-repository)
       * [Author](#Author)
-      * [Introducton](#Introduction)
-   * [Repository Content](#Repository-Content)
+      * [Introduction](#Introduction)
+   * [Methodology](#Methodology)
       * [Dataset](#Dataset)
       * [Exploratory Data Analysis](#Exploratory-Data-Analysis)
       * [Plausible Data Dictionary](#Plausible-Data-Dictionary)
