@@ -32,5 +32,4 @@ Road safety remains a critical issue in the UK, with thousands of lives impacted
 With 1,607 fatalities and 128,920 casualties reported in 2024, a slight decline compared to previous years. Despite progress, serious injuries and fatalities persist.
 
 "Broken roads can risk lives and cost families hundreds if not thousands of pounds on repairs. That’s a cost that can easily be avoided by investing properly in our roads.“- Sir Keir Starmer
-![image](https://github.com/user-attachments/assets/bfca63b8-10d0-477f-8503-2735ea562776)
 
